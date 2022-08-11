@@ -1,7 +1,7 @@
 {
 	"name": "Nirleka",
 	"short_name": "Nirleka",
-	"description": "",
+	"description": "Game praaksara dan purba",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
